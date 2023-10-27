@@ -32,4 +32,6 @@ The primary dataset used in this project is "bank_transactions.csv." You can fin
   - **Jupyter Notebook:** Used for creating and running analysis notebooks.
 
 ## Author
-- **Sai Manoj Pandiri**
+**Sai Manoj Pandiri**
+- [GitHub](https://github.com/SAI-MANOJ-P)
+- [Linkedin](https://www.linkedin.com/in/saimanojpandiri/)
